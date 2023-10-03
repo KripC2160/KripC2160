@@ -12,4 +12,4 @@ I am KripC, and I make things.
 ### Languages I know how to use:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c)](https://skillicons.dev)
 ### Tools I use:
-[![My Tools](https://skillicons.dev/icons?i=blender,godot,ps,ae,pr,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=blender,godot,ps,ae,pr,vscode,neovim,linux)](https://skillicons.dev)
